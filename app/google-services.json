@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624581576126",
+    "project_id": "fileguard-a7e67",
+    "storage_bucket": "fileguard-a7e67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624581576126:android:42751d159b6eee82aa65ef",
+        "android_client_info": {
+          "package_name": "com.visiosoft.fileguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624581576126-1crtgblfgg97luik1evop5uu6e3b269o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt_a5pgTLjGbcoouqt-9kExwowI-zQneg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624581576126-1crtgblfgg97luik1evop5uu6e3b269o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
