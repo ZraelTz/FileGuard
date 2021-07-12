@@ -19,6 +19,6 @@ A simple custom written file encryptor and decryptor.
 
 *  [x] Encrypt File  
 *  [x] Decrypt Fle 
-*  [] File Picker  
-*  [] Firestore storage
+*  [ ] File Picker  
+*  [ ] Firestore storage
 * and more.
