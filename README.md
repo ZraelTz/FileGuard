@@ -7,6 +7,7 @@ A simple custom written file encryptor and decryptor.
 
 **Application:**
 [apk debug version](app-debug.apk)
+ Remember to allow installation from unknown sources in your settings before trying to install the application.
 
 **Features:**
 
