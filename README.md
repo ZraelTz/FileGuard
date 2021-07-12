@@ -5,13 +5,6 @@
 
 A simple custom written file encryptor and decryptor.
 
-**Sample Screenshot:**
-![Preview](fg1.png)
-![Preview](fg2.png)
-![Preview](fg3.png)
-![Preview](fg4.png)
-![Preview](fg5.png)
-
 **Application:**
 [Debug apk version](app-debug.apk)
 
@@ -22,3 +15,10 @@ A simple custom written file encryptor and decryptor.
 *  [ ] File Picker  
 *  [ ] Firestore storage
 * and more.
+
+**Sample Screenshot:**
+![Preview](fg1.png)
+![Preview](fg2.png)
+![Preview](fg3.png)
+![Preview](fg4.png)
+![Preview](fg5.png)
