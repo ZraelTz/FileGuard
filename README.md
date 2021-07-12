@@ -6,7 +6,7 @@
 A simple custom written file encryptor and decryptor.
 
 **Application:**
-[Debug apk version](app-debug.apk)
+[apk debug version](app-debug.apk)
 
 **Features:**
 
